@@ -17,4 +17,5 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButton_clicked()
 {
     ui->textEdit->append("asdasdasdasd");
+    ui->textEdit->append("。。。。。");
 }
