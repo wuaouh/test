@@ -22,4 +22,5 @@ void MainWindow::on_pushButton_clicked()
     //
     //
     //
+    ui->textEdit->append("，，，，，，，，啊实打实发生");
 }
